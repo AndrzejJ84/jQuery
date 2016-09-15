@@ -1,0 +1,17 @@
+li {
+	background-image: url("https://hd.unsplash.com/photo-1437650128481-845e6e35bd75");
+	height: 300px;
+	width: 400px;
+	list-style: none;
+	float: left;
+}
+ul {
+	margin: 0;
+	width: 2000px;
+}
+#carousel {
+	overflow: hidden;
+	border: 2px solid #000;
+	width: 400px;
+	height: 300px;
+}
